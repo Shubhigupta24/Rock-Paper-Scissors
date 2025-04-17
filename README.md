@@ -4,7 +4,7 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML**, **CS
 
 ## Demo
 
-You can play the game live here: [Demo Link](https://yourdemo.com)
+You can play the game live here: [Demo Link](https://shubhigupta24.github.io/Rock-Paper-Scissors/)
 
 ## Features
 
